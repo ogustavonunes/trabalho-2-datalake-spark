@@ -1,0 +1,13 @@
+site_name: Trabalho 2 - Data Lakehouse
+theme:
+  name: material
+  palette:
+    scheme: slate 
+    primary: indigo
+  features:
+    - navigation.sections
+
+nav:
+  - Home: index.md
+  - Arquitetura: arquitetura.md
+  - Scripts: scripts.md
