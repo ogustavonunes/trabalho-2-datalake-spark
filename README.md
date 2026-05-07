@@ -65,7 +65,7 @@ Para acessar a documentação detalhada da arquitetura, scripts e a discussão s
 ```bash
 uv run mkdocs serve
 ```
-Acesse em: **http://127.0.0.1:8000**
+Acesse em: **https://ogustavonunes.github.io/trabalho-2-datalake-spark/**
 
 ## 👥 Grupo de Desenvolvimento
 * **Gustavo Nunes Teixeira Teixeira** - [GitHub](https://github.com/ogustavonunes)
