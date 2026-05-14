@@ -233,14 +233,6 @@ aws s3 --endpoint-url http://localhost:9020 ls --no-sign-request
 | **Gustavo Nunes Teixeira** | [@ogustavonunes](https://github.com/ogustavonunes)
 | **Frank Cardoso Serrano** | [@frank-cardoso](https://github.com/frank-cardoso) 
 
-## 📄 Licença
-Este projeto é fornecido como está para fins acadêmicos. Consulte o arquivo LICENSE (se presente) para mais detalhes.
-
-## 📞 Suporte
-Para dúvidas ou issues:
-1. Abra uma issue no repositório GitHub
-2. Consulte a [documentação oficial](https://ogustavonunes.github.io/trabalho-2-datalake-spark/)
-3. Verifique a seção de Troubleshooting acima
 
 ---
 *Desenvolvido para fins acadêmicos conforme os requisitos da Atividade Prática - Trabalho 2 da disciplina de Engenharia de Dados.*
